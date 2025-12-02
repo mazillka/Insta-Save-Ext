@@ -11,11 +11,10 @@
 Unpublished and removed from browser galleries (Chrome and Opera) by official request from Instagram, LLC
 </h1>
 
-<hr>
+Stats before remove
 
-## Stats before remove
-### Chrome
+Chrome
 ![Alt text](./stats/chrome.png)
 
-### Opera
+Opera
 ![Alt text](./stats/opera.png)
